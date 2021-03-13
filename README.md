@@ -1,4 +1,4 @@
-# hubvet
+# Desafio hubvet 
 
 ## Project setup
 ```
@@ -22,3 +22,13 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### Padrão de Projeto
+
+- Desenvolvido em Camel Case para objetos, funções e pastas
+- Padrão de projeto estilo MVC - MODELS, COMPONENTS, VIEWS, 
+- Código em inglês
+- Conceitos de Code Clean 
+- Commits em português
+- Usar o conventionalcommits na hora de realizar um commit
