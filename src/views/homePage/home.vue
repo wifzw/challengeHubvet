@@ -34,7 +34,7 @@
                 <v-col class="flex-shrink-1 flex-grow-1 mr-2">
                  <v-select
                    v-model="modelPackets"
-                   :items="itemsDemo"
+                   :items="itemsPackets"
                    label="Buscar por"
                  />
                 </v-col>   
@@ -125,6 +125,9 @@ export default {
      'Promoção', 
      'Novos', 
      'Últimos dias'
+    ],
+    itemsPackets: [
+        'Pacotes'
     ],
     modelPackets: null,
     modelCity: null,
