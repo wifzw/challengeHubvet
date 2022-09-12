@@ -30,5 +30,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - Padrão de projeto estilo MVC - MODELS, COMPONENTS, VIEWS, 
 - Código em inglês
 - Conceitos de Code Clean 
-- Commits em português
+- Commits em inglês
 - Usar o conventionalcommits na hora de realizar um commit
